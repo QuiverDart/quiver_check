@@ -12,9 +12,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-library quiver.check_test;
+library quiver.check.test;
 
-import 'package:quiver/check.dart';
+import 'package:quiver_check/check.dart';
 import 'package:test/test.dart';
 
 main() {
