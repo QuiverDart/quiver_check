@@ -8,7 +8,7 @@ Argument, state and other invariant checks for your programs.
 
 [API Docs](http://www.dartdocs.org/documentation/quiver_check/latest) are available.
 
-## quiver.check
+## Documentation
 
 `checkArgument` throws `ArgumentError` if the specified argument check expression
 is false.
