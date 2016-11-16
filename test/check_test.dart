@@ -189,6 +189,7 @@ main() {
                   : expectedMessage);
         }
       }
+
       test('negative size', () => checkListIndexShouldFail(0, -1));
       test('negative index', () => checkListIndexShouldFail(-1, 1));
       test('index too high', () => checkListIndexShouldFail(1, 1));
